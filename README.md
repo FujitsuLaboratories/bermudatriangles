@@ -1,5 +1,6 @@
 # Datasets (Tasks)
-
+This code is a supplemenary of [BERMUDA TRIANGLES: GNNS FAIL TO DETECT
+SIMPLE TOPOLOGICAL STRUCTURES](https://openreview.net/pdf?id=Vz_Nl9MSQnu)
 ## Triangle Presense
 
 In this task we generate relatively complex graphs which contain either exactly 1 or exactly 0
