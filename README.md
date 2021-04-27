@@ -49,6 +49,18 @@ It is also a tab-separated file with two columns:
 
 The order of entries must be the same with the SP file.
 
+# Citation
+```
+@inproceedings{
+tolmachev2021bermuda,
+title={Bermuda Triangles: {GNN}s Fail to Detect Simple Topological Structures},
+author={Arseny Tolmachev and Akira Sakai and Masaru Todoriki and Koji Maruhashi},
+booktitle={ICLR 2021 Workshop on Geometrical and Topological Representation Learning},
+year={2021},
+url={https://openreview.net/forum?id=Vz_Nl9MSQnu}
+}
+```
+
 # License Information
 
 All data is licensed under CC0.
