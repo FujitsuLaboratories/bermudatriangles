@@ -1,5 +1,5 @@
 # Datasets (Tasks)
-This code is a supplemenary of [BERMUDA TRIANGLES: GNNS FAIL TO DETECT
+This code is a supplementary material for [BERMUDA TRIANGLES: GNNS FAIL TO DETECT
 SIMPLE TOPOLOGICAL STRUCTURES](https://openreview.net/pdf?id=Vz_Nl9MSQnu)
 ## Triangle Presense
 
