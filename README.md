@@ -64,4 +64,4 @@ url={https://openreview.net/forum?id=Vz_Nl9MSQnu}
 # License Information
 
 All data is licensed under CC0.
-All code is licensed under MIT license. (Or change it to whatever you want)
+All code is licensed under MIT license.
