@@ -1,5 +1,5 @@
 # Datasets (Tasks)
-This code is a supplementary material for 
+This repository contains supplementary material for 
 [Bermuda Triangles: GNNs Fail to Detect Simple Topological Structures](https://openreview.net/forum?id=M-z0exL_fiF) paper at 
 ICLR 2021 Workshop on Geometrical and Topological Representation Learning.
 
