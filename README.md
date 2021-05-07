@@ -6,7 +6,7 @@ ICLR 2021 Workshop on Geometrical and Topological Representation Learning.
 ## Triangle Presense
 
 In this task we generate relatively complex graphs which contain either exactly 1 or exactly 0
-cycles of length 3 (triangle structures).
+cycles of length 3 (triangle structures). This data set is same as the one available on [Dataset Platter](http://dataset.jp.fujitsu.com/)
 
 ## Clique Distance
 
