@@ -1,12 +1,12 @@
 # Datasets (Tasks)
 This repository contains supplementary material for 
 [Bermuda Triangles: GNNs Fail to Detect Simple Topological Structures](https://openreview.net/forum?id=M-z0exL_fiF) paper at 
-ICLR 2021 Workshop on Geometrical and Topological Representation Learning.
+ICLR 2021 Workshop on Geometrical and Topological Representation Learning. This data set is same as the one available on [Dataset Platter](http://dataset.jp.fujitsu.com/)
 
 ## Triangle Presense
 
 In this task we generate relatively complex graphs which contain either exactly 1 or exactly 0
-cycles of length 3 (triangle structures). This data set is same as the one available on [Dataset Platter](http://dataset.jp.fujitsu.com/)
+cycles of length 3 (triangle structures). 
 
 ## Clique Distance
 
